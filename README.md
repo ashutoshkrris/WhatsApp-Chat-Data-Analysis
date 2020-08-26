@@ -28,6 +28,10 @@ You can install all of them by :
 
 `pip install -r requirements.txt`
 
+The notebook is also available [here](https://jovian.ml/ashutoshkrris/whatsapp-chat-data-analysis) and you can run directly there.
+
+Note : I have removed all the outputs due to privacy reasons. But trust me, you will like output if you perform it on your own dataset.
+
 Please show some ❤ by ⭐ the repository if you liked this analysis.
 
 Thanks!
